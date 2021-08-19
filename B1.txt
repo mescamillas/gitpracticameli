@@ -1,3 +1,4 @@
 Hola mundo, soy participante B y este es mi archivo 1
 Cambio 1
 Cambio con conflicto de parte del integrante B
+este es un cambio especatular
